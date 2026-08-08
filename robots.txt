@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-b6v03c.cnkitawin.online/sitemap.xml
